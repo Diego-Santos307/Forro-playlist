@@ -1,0 +1,20 @@
+## Álbum Forró
+
+Esse álbum é um tocador de playlist de forró, aonde eu tenho como objetivo, aplicar todos os meus conhecimento até em tão com as Linguagens HTML, Css e até um pouco do Javascript, com intuito de melhorar o que eu já aprendi.
+
+HTML, Passo a passo:
+
+1. Vou começar com a estrutura basica de HTML
+    começar criando uma div, class: Container music. Para guardar todas a estrutura da pg;
+    adicionar titulo da pagina;
+    adicionar img e audio;
+    adicionar a div id: below-cover, aonde vai ficar as informações da música, banda e o botão de link;
+    adicionar o Container do progresso da musica;
+    adicionar o Container, contendo os botãos que são as funcionalidades da musica;
+    
+    Obs.
+    tentar adicionar os botãos contendo os links que direçona as paginas dos artistas;
+
+CSS, Passo a passo:
+
+2. 
