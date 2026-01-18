@@ -2,6 +2,104 @@
 
 Esse álbum é um tocador de playlist de forró, aonde eu tenho como objetivo, aplicar todos os meus conhecimento até em tão com as Linguagens HTML, Css e até um pouco do Javascript, com intuito de melhorar o que eu já aprendi.
 
+Segue a lista de músicas, os seus cantores e o album, depois do sinal | :
+
+### Lista de Músicas Forró:
+
+Lista de Músicas - Forró
+
+A diferença - Os Barões da Pisadinha | Album - Da roça pra cidade( Ao Vivo)
+Acaso - Vitor Fernandes | Piseiro Atualizado 
+Adeus Bye Bye - Márcia Fellipe feat. Tarcísio do Arcordeon | Adeus Bye Bye
+Agonia - Mari Fernandez, Vitor Fernandes | Piseiro Sofrência 
+Aliança - Vitor Fernandes | Piseiro Apaixonado 
+Alma de Rapariga - Os Barões da Pisadinha | Bora Pro Piseiro
+Amizade Colorida - Mari Fernandez | Ao Vivo em Fortaleza
+Amor de Rapariga - Raí Saia Rodada, Tony Guerra & Forró Sacode | Sertanejo Para Dançar 
+Aquelas Coisas - João Gomes | Eu Tenho a Senha
+Baby Me Atende - Matheus Fernandes, Disinho || Baby Me Atende
+Beijo das Galáxias - Eric Land e Wesley Safadão || Eric Land e Wesley Safadão
+Bipolar - Biu do Piseiro, Mc Davi, DG e Batidão Stronda || Bipolar 
+Bom Dia - Nêgo Jhá || Bom Dia
+Bota Elas Pra Sentar - Eric Land | Start DELUXE
+Cadê o Amor - Zé Vaqueiro | São João com Zé Vaqueiro
+Cangote - Zé Vaqueiro | O Original
+Carinha de Neném - Japãozin | Brabo dos Paredões 
+Cena de Amor - Zé Vaqueiro, Brisa Star | Cena de Amor
+Chega e Senta - John Amplificado | Ao Vivo em Goiânia
+Com Você ou Sem - NATTAN | Com Você ou Sem
+Confidencial - Zé Vaqueiro | O Estouro das Vaquejadas
+Coração Cachorro - Avine Vinny, Matheus Fernandes | Coração Cachorro
+Deixa Eu Falar Pra Você - Josué Bom de Faixa | Josué Bom de Faixa
+Diferentes dos Diferentes - NATTAN | NATTAN 
+Diferente dos Iguais - Os Barões da Pisadinha| Respeita a Firma
+É Amor - João Gomes | Eu Tenho a Senha
+Ela Aperta A Minha Mente - Xand Avião, Os barões da Pisadinha | Festa Junina - As Melhores do são João 2024
+Esqueci Foi Porra - Eric Land, Tarcísio do Acordeon | Esqueci Foi Porra
+Eu Tenho a Senha - João Gomes | Eu Tenho a Senha
+Eu Tenho Medo - Zé Vaqueiro | O Original
+Eu Tô Ai - Tarcísio do Acordeon | Meu Sonho - Pt. 3
+Eu Tô Com a Puta - Josué Bom de Faixa | Josué Bom de Faixa 
+Eu Vou Tirar Você do Cabaré - Israell Muniz | Israell Muniz
+Faz a Pose Olha o Flash - Biu do Piseiro, MC Teteu, Dj Serpiha | O Maior Piseiro de Todos os Tempos!
+Fica Comigo - João Gomes | Eu Tenho a Senha
+Ficante Fiel - Mad Dogz, Mari Fernandes | Sem Querer Querendo
+Fim da Noite - Zé Vaqueiro | Fim da Noite
+Foge Comigo Agora - Vitinho Imperador | Seleção do Imperador
+Foi Amor - Zé Vaqueiro | O Original
+Hoje Doí - Tarcísio do Acordeon | Diferentes dos Iguais
+Hoje Tem - VAQUEIRO SM, Raí Saia Rodada | Hoje Tem
+Imaturidade - Tarcísio do Acordeon | Meu Sonho - Pt. 2
+Lovezão da Porra - Xand Avião ! Lovezão da Porra
+Mágica - Calcinha Preta | As 20+
+Manchete dos Jornais - Calcinha Preta | As 20+
+Me Chama - Vitor Fernandes | Piseiro Apaixonado - Pt. 1
+Meia Noite (Ce Tem Meu WhatsApp) - Os Barões da Pisadinha | Da Roça Pra Cidade (Ao Vivo)
+Meia Noite - Zé Vaqueiro | Meia Noite
+Metade de um Abraço - Zé Vaqueiro | Metade de um Abraço
+Mete Um Block Nele - João Gomes | Eu Tenho a Senha 
+Meu Mel - Zé Vaqueiro | O Original
+Meu Pedaço de Pecado - João Gomes | Eu Tenho a Senha
+Mil Esquemas - Vitor Fernandes | Piseiro Apaixonado - Pt. 1
+MORANDO DO NORDESTE REMIX - DjVictorbateforte, Lairton e Seus Teclados; | Morango do Nordeste Remix
+Morena - NAATAN | Com Você ou Sem
+Não Dei Tchau - Vitor Fernandes | Piseiro Apaixonado - Pt. 1
+Não_ Não Vou - Mari Fernandes | Piseiro Sofrência
+Nêga - Tarcísio do Acordeon, Vitor Fernandes | Piseiro Apaixonado
+Nem Você Nem Eu - Vitor Fernandes | Piseiro Apixonado
+Paredão no Talo - Jonas Esticado | Paredão no Talo
+Proteção de Tela - Tarcísio do Acordeon | Meu Sonho - Pt. 2
+Quando a Saudade Bater - Os Barões da Pisadinha | Melhores Os Barões da Pisadinha
+Que Nem Vovô - João Gomes | Eu Tenho a Senha
+Quero Amor Que Fica - Xand Avião ! Xand Avião 2021
+Quero Ver é Me Esquecer - Os Barões da Pisadinha | Os Barões da Pisadinha
+Rapariga Oficial - Os Barões da Pisadinha | Os Barões da Pisadinha
+Recaída Sem Compromisso - Piseiro do Barão | Recaida sem Compromisso
+Revoada no Colchão - Marcynho Sensação | Revoada no Colchão 
+Rolé - Tarcísio do Acordeon, Marcynho Sensação | Rolé
+Roxinho - Vitor Fernandes, Tarcísio do Acordeon | Roxinho
+Se For Amor - João Gomes, Vitor Fernandes | Eu Tenho a Senha
+Se Tu Amasse Eu - Diego Souza, Pisadinha de Luxo | Pisadinha de Luxo 2022
+Sentada Desapegada - NATTAN< MC Mari | Sentada Desapegada
+Sextou - Biu do Piseiro, Pedrinho Pisadinha | Sextou 
+Só Basta Você Me Ligar - Zé Vaqueiro | O Original 
+Storiezin - Raí Saia Rodada, NATTAN | Injusto
+Superação Digital - Xand Avião, Zé Vaqueiro | Superação Digital
+Tá Apaixonado Babaca - Biu do Piseiro | O Maior Piseiro de Todos os Tempos!
+Tá Beba Né - Matheus Fernandes | Matheus Fernandes
+Tapão na Raba - Israell Muniz | Tapão Na Raba
+Termina Comigo - Vitor Fernandes | Piseiro Apaixonado - Pt. 1
+Tô Beijando Ela - Zé vaqueiro | O Original
+Tô Sem Você - João Gomes | Eu Tenho a Senha
+Vai Me Usando - Neto LX | Ao Vivo em Ceilândia, DF
+Viela - Marcynho Sensação | Junho 2K21
+Volta Comigo BB - Zé vaqueiro | Forró Repertorio Novo 2023 - As Mais Tocadas
+Volta Rapariga - Vitinho Imperador | Seleção do Imperador 
+Vou Falar Que Não Quero - Vitor Fernandes | Piseiro Apaixonado - Pt. 1 
+Vou Te Amar - Vitor Fernandes | Piseiro Atualizado
+Xerecard - Jeff Costa, Mc Danny | Xerecard
+Zero Saudade - Os Barões da Pisadinha, Maiaira & Maraisa | Da Roça Pra Cidade (Ao Vivo)
+
 Esse album contem mais de 98 musicas, de varios cantores brasileiros e do genero musical forró.
 
 HTML, Passo a passo:
